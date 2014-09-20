@@ -1,4 +1,4 @@
-Assignment - 7
+Assignment - 6
 ==
 
 In this week you were introduced to controllers and views and routing.
